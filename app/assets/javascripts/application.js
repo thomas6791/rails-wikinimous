@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require ace-rails-ap
+//= require_tree
+
+const editeur = document.getElementById("editor");
